@@ -142,13 +142,20 @@ export default {
         },
         {
           id: 4,
+          domain: "dashboard-admin.wistack.site",
+          description: "Dashboard admin modern dengan sistem manajemen lengkap",
+          tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+          liveUrl: "https://dashboard-admin.wistack.site"
+        },
+        {
+          id: 5,
           domain: "paradisespaonbene.com", 
           description: "Sistem booking dengan penjadwalan",
           tech: ["Laravel", "Custom Frontend", "Booking", "SEO"],
           liveUrl: "https://paradisespaonbene.com/"
         },
         {
-          id: 5,
+          id: 6,
           domain: "glowing.co.id",
           description: "Platform membership",
           tech: ["WordPress", "Membership", "SEO"],
@@ -179,13 +186,20 @@ export default {
         },
         {
           id: 4,
+          domain: "dashboard-admin.wistack.site",
+          description: "Modern admin dashboard with comprehensive management system",
+          tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+          liveUrl: "https://dashboard-admin.wistack.site"
+        },
+        {
+          id: 5,
           domain: "paradisespaonbene.com", 
           description: "Booking system with scheduling",
           tech: ["Laravel", "Custom Frontend", "Booking", "SEO"],
           liveUrl: "https://paradisespaonbene.com/"
         },
         {
-          id: 5,
+          id: 6,
           domain: "glowing.co.id",
           description: "Membership platform",
           tech: ["WordPress", "Membership", "SEO"],
