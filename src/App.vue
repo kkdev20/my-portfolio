@@ -121,75 +121,75 @@ export default {
       projectsId: [
         {
           id: 1,
-          domain: "paradisespaonbene.com", 
-          description: "Sistem booking dengan penjadwalan",
-          tech: ["Laravel", "Custom Frontend", "Booking", "SEO"],
-          liveUrl: "https://paradisespaonbene.com/"
-        },
-        {
-          id: 2,
-          domain: "glowing.co.id",
-          description: "Platform membership",
-          tech: ["WordPress", "Membership", "SEO"],
-          liveUrl: "https://glowing.co.id/"
-        },
-        {
-          id: 3,
           domain: "urbancart.wistack.site",
           description: "Platform e-commerce modern dengan keranjang belanja & checkout lengkap",
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://urbancart.wistack.site"
         },
         {
-          id: 4,
+          id: 2,
           domain: "saas.wistack.site",
           description: "Landing page SaaS modern untuk platform kolaborasi tim",
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://saas.wistack.site"
         },
         {
-          id: 5,
+          id: 3,
           domain: "travel.wistack.site",
           description: "Website pariwisata Bali dengan sistem booking",
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://travel.wistack.site"
+        },
+        {
+          id: 4,
+          domain: "paradisespaonbene.com", 
+          description: "Sistem booking dengan penjadwalan",
+          tech: ["Laravel", "Custom Frontend", "Booking", "SEO"],
+          liveUrl: "https://paradisespaonbene.com/"
+        },
+        {
+          id: 5,
+          domain: "glowing.co.id",
+          description: "Platform membership",
+          tech: ["WordPress", "Membership", "SEO"],
+          liveUrl: "https://glowing.co.id/"
         }
       ],
       projectsEn: [
         {
           id: 1,
-          domain: "paradisespaonbene.com", 
-          description: "Booking system with scheduling",
-          tech: ["Laravel", "Custom Frontend", "Booking", "SEO"],
-          liveUrl: "https://paradisespaonbene.com/"
-        },
-        {
-          id: 2,
-          domain: "glowing.co.id",
-          description: "Membership platform",
-          tech: ["WordPress", "Membership", "SEO"],
-          liveUrl: "https://glowing.co.id/"
-        },
-        {
-          id: 3,
           domain: "urbancart.wistack.site",
           description: "Modern e-commerce platform with full shopping cart & checkout",
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://urbancart.wistack.site"
         },
         {
-          id: 4,
+          id: 2,
           domain: "saas.wistack.site",
           description: "Modern SaaS landing page for team collaboration platform",
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://saas.wistack.site"
         },
         {
-          id: 5,
+          id: 3,
           domain: "travel.wistack.site",
           description: "Travel website for Bali tourism with booking system",
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://travel.wistack.site"
+        },
+        {
+          id: 4,
+          domain: "paradisespaonbene.com", 
+          description: "Booking system with scheduling",
+          tech: ["Laravel", "Custom Frontend", "Booking", "SEO"],
+          liveUrl: "https://paradisespaonbene.com/"
+        },
+        {
+          id: 5,
+          domain: "glowing.co.id",
+          description: "Membership platform",
+          tech: ["WordPress", "Membership", "SEO"],
+          liveUrl: "https://glowing.co.id/"
         }
       ]
     }
