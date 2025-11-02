@@ -106,7 +106,7 @@ export default {
       showScrollTop: false,
       translations: {
         id: {
-          location: "Berdasarkan di Bali, Indonesia 🇮🇩",
+          location: "Berlokasi di Bali, Indonesia 🇮🇩",
           about: "Web developer berpengalaman 5+ tahun dalam membangun aplikasi web modern, responsif, dan user-friendly dengan teknologi terkini.",
           projects: "Proyek",
           getInTouch: "Hubungi saya: "
