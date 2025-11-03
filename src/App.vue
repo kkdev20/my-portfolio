@@ -178,7 +178,7 @@ export default {
           id: 8,
           domain: "travel-dash.wistack.site",
           description: "Dashboard otomatisasi untuk manajemen perjalanan dan booking",
-          tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+          tech: ["Next.js", "TypeScript", "Tailwind CSS", "n8n", "Vercel"],
           liveUrl: "https://travel-dash.wistack.site",
           status: "development"
         },
@@ -244,7 +244,7 @@ export default {
           id: 8,
           domain: "travel-dash.wistack.site",
           description: "Automation dashboard for travel and booking management",
-          tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+          tech: ["Next.js", "TypeScript", "Tailwind CSS", "n8n", "Vercel"],
           liveUrl: "https://travel-dash.wistack.site",
           status: "development"
         },
