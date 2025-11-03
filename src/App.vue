@@ -76,7 +76,8 @@
           <a href="https://wa.me/62882006194560" class="whatsapp-link">
             <span class="whatsapp-text">WhatsApp</span>
             <span class="whatsapp-number">+62 882-0061-94560</span>
-          </a>
+          </a> • 
+          <a href="https://github.com/kkdev20" target="_blank" rel="noopener noreferrer">GitHub</a>
         </p>
       </section>
     </main>
