@@ -181,6 +181,13 @@ export default {
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://travel-dash.wistack.site",
           status: "development"
+        },
+        {
+          id: 9,
+          domain: "bubossdrinkery.com",
+          description: "Platform e-commerce untuk produk minuman dengan sistem terintegrasi",
+          tech: ["PHP Custom", "Laravel", "SEO", "WhatsApp Integration"],
+          liveUrl: "https://www.bubossdrinkery.com/"
         }
       ],
       projectsEn: [
@@ -240,6 +247,13 @@ export default {
           tech: ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
           liveUrl: "https://travel-dash.wistack.site",
           status: "development"
+        },
+        {
+          id: 9,
+          domain: "bubossdrinkery.com",
+          description: "E-commerce platform for beverage products with integrated system",
+          tech: ["PHP Custom", "Laravel", "SEO", "WhatsApp Integration"],
+          liveUrl: "https://www.bubossdrinkery.com/"
         }
       ]
     }
