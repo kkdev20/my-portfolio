@@ -160,6 +160,13 @@ export default {
           description: "Platform membership",
           tech: ["WordPress", "Membership", "SEO"],
           liveUrl: "https://glowing.co.id/"
+        },
+        {
+          id: 7,
+          domain: "wedding-ai-assistant.wistack.site",
+          description: "Asisten AI untuk perencanaan pernikahan dengan teknologi GPT-3.5",
+          tech: ["Next.js 14", "TypeScript", "Tailwind CSS", "Supabase", "OpenAI GPT-3.5", "Vercel"],
+          liveUrl: "https://wedding-ai-assistant.wistack.site/"
         }
       ],
       projectsEn: [
@@ -204,6 +211,13 @@ export default {
           description: "Membership platform",
           tech: ["WordPress", "Membership", "SEO"],
           liveUrl: "https://glowing.co.id/"
+        },
+        {
+          id: 7,
+          domain: "wedding-ai-assistant.wistack.site",
+          description: "AI assistant for wedding planning powered by GPT-3.5",
+          tech: ["Next.js 14", "TypeScript", "Tailwind CSS", "Supabase", "OpenAI GPT-3.5", "Vercel"],
+          liveUrl: "https://wedding-ai-assistant.wistack.site/"
         }
       ]
     }
