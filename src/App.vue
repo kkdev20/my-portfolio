@@ -439,7 +439,7 @@ html.dark .scroll-progress {
 }
 
 .nav {
-  max-width: 600px;
+  max-width: 1100px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -548,7 +548,7 @@ html.dark .scroll-progress {
 
 /* Main Content */
 .main {
-  max-width: 600px;
+  max-width: 1100px;
   margin: 0 auto;
   padding: 1.5rem 1rem;
   position: relative;
@@ -624,7 +624,7 @@ html.dark .scroll-progress {
 
 .project-list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
 }
 
@@ -828,6 +828,12 @@ html.dark .scroll-progress {
 }
 
 /* Responsive */
+@media (max-width: 1024px) {
+  .project-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 768px) {
   .main {
     padding: 1rem;
